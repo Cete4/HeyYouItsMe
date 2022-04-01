@@ -1,0 +1,22 @@
+{
+  "name": "heyyouitsmeet",
+  "version": "1.0.0",
+  "description": "A mobile app designed to make someone feel like you care about them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cete4/HeyYouItsMeet.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Micah B.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cete4/HeyYouItsMeet/issues"
+  },
+  "homepage": "https://github.com/Cete4/HeyYouItsMeet#readme"
+}
